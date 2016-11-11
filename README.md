@@ -15,16 +15,15 @@
     - PageJS to Single Page Aplication routing
     - And a few scaffolding techniques
 ##Install
-    After clone respository
+After clone respository
     
-```
+```zsh
 npm install -g gulp-cli
 npm install
 bower install
 ```
-
-    Run server distribution
+Run server distribution
     
-```shell
+```zsh
 gulp
 ```
