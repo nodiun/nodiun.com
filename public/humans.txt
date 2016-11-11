@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Eduardo -- UX & UI -- @okitoxd
+    Jhon -- SE -- @jyaniro
+
+# THANKS
+
+    To us
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS, JAVASCRIPT
