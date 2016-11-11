@@ -16,12 +16,15 @@
     - And a few scaffolding techniques
 ##Install
     After clone respository
-    ```
-    npm install -g gulp-cli
-    npm install
-    bower install
-    ```
+    
+```
+npm install -g gulp-cli
+npm install
+bower install
+```
+
     Run server distribution
-    ```zsh
-    gulp
-    ```
+    
+```shell
+gulp
+```
