@@ -16,6 +16,8 @@
   ],
   "dependencies": {
     "normalize-css": "normalize.css#^5.0.0",
-    "page": "visionmedia/page.js#^1.7.1"
+    "page": "visionmedia/page.js#^1.7.1",
+    "bootstrap-material-design": "^4.0.2",
+    "materialize": "^0.97.8"
   }
 }
